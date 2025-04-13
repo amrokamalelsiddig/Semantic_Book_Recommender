@@ -16,7 +16,7 @@ an intelligent book recommendation system powered by large language models and s
 
 ## 📦 Data Source
 
-- **7K Books Dataset from Kaggle**  
+- **[7K Books Dataset from Kaggle](https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata)**  
   Contains: title, subtitle, author, category, description, ISBN, cover image URL, ratings, and more.
 
 ---
