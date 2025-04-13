@@ -142,10 +142,12 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
-
+__pycache__/
+.vscode
+book/
 # mkdocs documentation
 /site
-
+book/
 # mypy
 .mypy_cache/
 .dmypy.json
